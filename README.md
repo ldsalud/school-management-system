@@ -180,7 +180,7 @@ This complete school management application is available for:
 | | |
 |---|---|
 | **GitHub** | [@miyako-enterprises](https://github.com/miyako-enterprises/) |
-| **Email** | Contact via GitHub profile |
+| **Email** | owner@miyako-enterprises.com |
 | **Live Demo** | [pbes-demo.vercel.app](https://pbes-demo.vercel.app) |
 
 > 💡 **Want to see more?** I'm happy to:
